@@ -7,6 +7,8 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Thedogecraft/Autoclicker?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/Thedogecraft/Autoclicker?style=for-the-badge&logo=%230078d7&logoColor=%230078d7&color=0078d7)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Thedogecraft/Autoclicker/dotnet.yml?style=for-the-badge&color=0078d7)
+
 
 </div>
 
